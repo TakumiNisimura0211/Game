@@ -1,0 +1,25 @@
+﻿2016/08/26 14:14:13 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\takum_000\Desktop\GameTemplate\game\game.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Player.cpp
+         Player.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\takum_000\Desktop\GameTemplate\x64\Debug\game.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\takum_000\Desktop\GameTemplate\x64\Debug\game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\takum_000\Desktop\GameTemplate\x64\Debug\game.lib" /MACHINE:X64 x64\Debug\Asiba.obj
+         x64\Debug\Enemy.obj
+         x64\Debug\game.obj
+         x64\Debug\Animation.obj
+         x64\Debug\Camera.obj
+         x64\Debug\EffectManager.obj
+         x64\Debug\SkinModel.obj
+         x64\Debug\SkinModelData.obj
+         x64\Debug\System.obj
+         x64\Debug\main.obj
+         x64\Debug\Player.obj
+         x64\Debug\Skybox.obj
+         x64\Debug\stdafx.obj
+         game.vcxproj -> C:\Users\takum_000\Desktop\GameTemplate\x64\Debug\game.exe
+     1>プロジェクト "C:\Users\takum_000\Desktop\GameTemplate\game\game.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.10
